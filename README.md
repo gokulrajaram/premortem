@@ -1,6 +1,6 @@
 # premortem
 
-A [Claude Code](https://claude.com/claude-code) skill that runs a **premortem** on any plan, launch, product, hire, strategy, or decision before you commit to it.
+A [Claude Code](https://claude.com/claude-code) and Codex skill that runs a **premortem** on any plan, launch, product, hire, strategy, or decision before you commit to it.
 
 Instead of asking "what could go wrong?" (which gets you cautious, hedged answers), the skill jumps 6 months into the future, assumes the plan has already failed, and works backward to explain *why it died*. This shift — from prospective risk assessment to retrospective failure narration — is what psychologist Gary Klein called a "premortem." Daniel Kahneman called it his single most valuable decision-making technique. Wharton and Cornell researchers found it significantly improves people's ability to identify the actual causes of future outcomes.
 
